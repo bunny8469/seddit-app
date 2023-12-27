@@ -14,4 +14,4 @@ npm install
 npm start
 ```
 
-Visit http://localhost:3000/
+After initialisation, Visit http://localhost:3000/
